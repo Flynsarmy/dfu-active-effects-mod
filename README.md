@@ -19,3 +19,8 @@ Both ailments require a set amount of incubation time before they'll manifest. T
 ## Installation
 
 * Copy the `.dfmod` for your OS of choice to your DFU installations *StreamingAssets\Mods* folder.
+
+## Screenshots
+
+* Incubating disease ![](https://github.com/Flynsarmy/dfu-active-effects-mod/blob/master/screenshots/incubating-disease.jpg?raw=true)
+* Manifested disease ![](https://github.com/Flynsarmy/dfu-active-effects-mod/blob/master/screenshots/manifested-disease.jpg?raw=true)
