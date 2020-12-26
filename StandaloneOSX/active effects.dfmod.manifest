@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1156677828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 561d2d88f44c234f10cc6b81aa9bb73b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Game/Mods/ActiveEffects/ActiveEffects.dfmod.json
+- Assets/Untracked/ModBuilder/Active Effects/ActiveEffects.cs.txt
+Dependencies: []

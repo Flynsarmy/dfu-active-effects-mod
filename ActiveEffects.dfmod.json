@@ -1,0 +1,12 @@
+{
+    "ModTitle": "Active Effects",
+    "ModVersion": "0.1",
+    "ModAuthor": "Flyn San",
+    "ContactInfo": "flynsarmy@gmail.com",
+    "DFUnity_Version": "0.11.0",
+    "ModDescription": "Provides a list of active effects directly on the HUD",
+    "GUID": "c58260c7-2358-4541-b0c6-76a47d03f699",
+    "Files": [
+        "Assets/Game/Mods/ActiveEffects/ActiveEffects.cs"
+    ]
+}
